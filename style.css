@@ -106,6 +106,15 @@ main article {
   padding: 48px 96px;
 }
 
+main > article p:first-of-type::first-letter {
+  font-size: large;
+  font-weight: 800;
+  float: left;
+  line-height: 1;
+  margin: 10px;
+  color: var(--text-color);
+}
+
 main p {
   line-height: 1.75;
   margin-bottom: 48px;;
