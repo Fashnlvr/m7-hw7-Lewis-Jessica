@@ -167,8 +167,8 @@ span.tooltip span {
   display: none;
   background-color: var(--text-color);
   color: var(--off-white);
-  padding: 15px;
-  border-radius: 5px;
+  padding: 25px;
+  border-radius: 10px;
   white-space: nowrap;
 }
 
