@@ -81,6 +81,7 @@ main > section.hero {
   align-items: center;
   text-align: center;
   /* make this banner stick to the top! */
+  position: sticky;
 }
 
 section.hero > .call-to-action {
