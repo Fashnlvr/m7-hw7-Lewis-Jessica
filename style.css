@@ -83,6 +83,7 @@ main > section.hero {
   /* make this banner stick to the top! */
   position: sticky;
   top: 0;
+  z-index: 10;
 }
 
 section.hero > .call-to-action {
