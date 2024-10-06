@@ -168,7 +168,7 @@ span.tooltip span {
   background-color: var(--text-color);
   color: var(--off-white);
   padding: 15px;
-  border-radius: 8px;
+  border-radius: 5px;
 }
 
 /* styling for tooltip bubble arrow */
