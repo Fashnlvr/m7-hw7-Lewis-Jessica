@@ -113,7 +113,7 @@ main > article p:first-of-type::first-letter {
   line-height: 1;
   margin: 0 10px 20px 10px;
   color: var(--text-color);
-  font-family: 'Roboto', serif;
+  font-family: serif;
 }
 
 main p {
