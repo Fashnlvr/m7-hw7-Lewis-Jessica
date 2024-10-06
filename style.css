@@ -111,7 +111,7 @@ main > article p:first-of-type::first-letter {
   font-weight: 900;
   float: left;
   line-height: 1;
-  margin: 0 10px 20px 10px;
+  margin: 0 10px 18px 10px;
   color: var(--text-color);
   font-family: serif;
 }
