@@ -107,7 +107,7 @@ main article {
 }
 
 main > article p:first-of-type::first-letter {
-  font-size: xx-large;
+  font-size: 4rem;
   font-weight: 900;
   float: left;
   line-height: 1;
